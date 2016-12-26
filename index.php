@@ -4,4 +4,4 @@
 $result ="hello world.\n";
 echo $result;
 ?>
-123 etext!
+<p>123 etext!
